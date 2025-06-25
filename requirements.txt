@@ -1,0 +1,6 @@
+lightkurve
+matplotlib
+numpy
+plotly
+lmfit
+scipy
